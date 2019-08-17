@@ -1,0 +1,28 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    width: 400px;
+    height: 80px;
+    background-color: aqua;
+}
+
+.satu {
+    overflow: scroll;
+    padding: 10px;
+    border: 10px dotted red;
+}
+
+.dua {
+    overflow: scroll;
+    padding: 10px;
+    border: 5px solid green;
+}
+
+.tiga {
+    overflow: scroll;
+    padding: 10px;
+    border: 15px dashed blue;
+}
+
